@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Diego Ramirez 👋
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoezequiel23&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
