@@ -1,4 +1,8 @@
-<h1 align="center"><b>Hola, soy Diego Ramirez    </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/88f7ccc3-3fce-4c60-93fa-dfe1e749c042" />
+
+<hr>
 
 
 Actualmente me encuentro cursando la Tecnicatura Universitaria en Desarrollo de Software en la Universidad de Ezeiza, donde estoy fortaleciendo mis bases en programación, bases de datos y buenas prácticas de desarrollo.
